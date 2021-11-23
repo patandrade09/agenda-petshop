@@ -1,6 +1,8 @@
 ## Rest com Node JS: API com Express e MySQL
 
- ## ***Projeto para estudo baseado na plataforma de cursos da Alura***
+ ## ***Projeto para estudo da plataforma de cursos Alura***
+ 
+ Sobre: API para agendamentos de um petshop.
   
  **Ferramentas:** 
  - MySQL Workbench
