@@ -1,0 +1,29 @@
+{
+    "name": "agenda-petshop",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/patandrade09/projeto-nodejs-rest.git"
+    },
+    "author": "patricia andrade",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/patandrade09/projeto-nodejs-rest/issues"
+    },
+    "homepage": "https://github.com/patandrade09/projeto-nodejs-rest#readme",
+    "dependencies": {
+        "consign": "^0.1.6",
+        "express": "^4.17.1",
+        "moment": "^2.29.1",
+        "mysql2": "^2.3.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
