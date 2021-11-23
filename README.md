@@ -9,7 +9,7 @@
  - NPM Consign
  - NPM Moment
  - Postman
- - 
+ 
  **Verbos HTTP usados** 
   GET, POST, PATCH, DELETE
   
